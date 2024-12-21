@@ -8,6 +8,8 @@ The Teacher-Centric Streaming Platform is a blockchain-based solution designed t
 
 ## Contract Address
 0xb40d012d5fc9eda16446e94d535d22d1bb9f00f2
+![image](https://github.com/user-attachments/assets/66a2f35c-b4ab-411f-b9ac-4dec4eda696f)
+
 ## Project Vision
 Our vision is to revolutionize online education by providing teachers with a platform that simplifies session management, ensures timely payments, and fosters a better learning experience. By leveraging blockchain technology, we aim to create a transparent, secure, and efficient system for both teachers and students.
 
